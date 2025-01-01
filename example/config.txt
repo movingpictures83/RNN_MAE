@@ -1,0 +1,2 @@
+Prefix plugins/RNN_MAE/example/
+Plugin RNN_MAE inputfile Merged-update_hourly.csv outputfile .
